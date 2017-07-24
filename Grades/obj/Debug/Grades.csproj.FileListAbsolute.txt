@@ -4,3 +4,9 @@ c:\users\p076240\documents\visual studio 2017\Projects\Grades\Grades\bin\Debug\G
 c:\users\p076240\documents\visual studio 2017\Projects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
 c:\users\p076240\documents\visual studio 2017\Projects\Grades\Grades\obj\Debug\Grades.exe
 c:\users\p076240\documents\visual studio 2017\Projects\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\P076240\Desktop\PluralSightProjects\CSharp\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\P076240\Desktop\PluralSightProjects\CSharp\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\P076240\Desktop\PluralSightProjects\CSharp\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\P076240\Desktop\PluralSightProjects\CSharp\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\P076240\Desktop\PluralSightProjects\CSharp\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\P076240\Desktop\PluralSightProjects\CSharp\Grades\Grades\bin\Debug\Grades.pdb
